@@ -18,12 +18,7 @@ margin-right: auto;
 }
 
 
-header{
 
-height: 150px;
-width:100%;
-background-color: red;
-}
 
 nav{
 height: 50px;
@@ -37,12 +32,7 @@ width:80%;
 background-color:purple;
 }
 
-aside{
 
-height: 450px;
-width:20%;
-background-color:green;
-}
 
 footer{
 height: 100px;
