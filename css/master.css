@@ -23,21 +23,29 @@ margin-right: auto;
 nav{
 height: 50px;
 width:100%;
-background-color:pink;
+background-color:black;
 }
 
 main{
-height: 450px;
-width:80%;
-background-color:purple;
+height:705px;
+width:100%;
+background-color:gray;
+}
+#green{
+
+  color: #0df23a;
+}
+aside{
+background-color:gray
+
+
+
 }
 
-
-
 footer{
-height: 100px;
-width:100%;
-background-color:blue;
+height: 10%;
+width:10%;
+background-color:gray;
 }
 
 #container{
@@ -47,10 +55,11 @@ display: flex;
 }
 
 
+
+
 a  {
-  color: green;
+  color: blue;
 
   text-decoration: none;
-  font-size: 30px
+  font-size: 100px
   font-family: Arial, Helvetica, sans-serif;
-}
